@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="ws_1453467418" name="Remove Fog: Hiigaran Crossroads [HC]" description="Fogs in the game become invisible. Should improve FPS." version="100" save="false" author="Vectorial1024" date="2018-07-26" sync="false" lastupdate="1532612952">
+  <text language="86" name="去去雾气走：Hiigaran Crossroads [HC]" description="游戏中的雾气不再可见。应可提升帧率(FPS)。"/>
+  <text language="88" name="去去霧氣走：Hiigaran Crossroads [HC]" description="遊戲中的霧氣不再可見。應可提升幀率(FPS)。"/>
+</content>

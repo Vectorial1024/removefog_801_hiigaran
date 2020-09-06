@@ -1,0 +1,29 @@
+﻿This mod removes fog inside Hiigaran Crossroads [HC] (from Hiigaran Crossroads Cluster V2.2 by ExavierMacbeth), and is part of the "Remove Fog" mod family. Refer to the main mod page for more general details. Main mod page: https://steamcommunity.com/sharedfiles/filedetails/?id=1436262588
+
+Known Issues
+There are no known issues.
+
+Check out my workshop here for other simple and practical mods.
+
+去去霧氣走：Hiigaran Crossroads [HC]
+
+此mod移除了[HC]內的霧氣（來自 ExavierMacbeth 的 Hiigaran Crossroads Cluster V2.2），並且是“去去霧氣走”mod系列的一部分。有關更多一般的信息，請在[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1436262588]這裡[/url]參閱主mod頁面。
+
+本mod已獲得Hiigaran Crossroads作者Exavier認可。
+
+已知的問題
+沒有已知問題。
+
+查看我的工坊([url=https://steamcommunity.com/profiles/76561198207587611/myworkshopfiles/?appid=2870]鏈接[/url])以獲取其他簡單實用的mod。
+
+
+去去雾气走：Hiigaran Crossroads [HC]
+
+此mod移除了[HC]内的雾气（来自 ExavierMacbeth 的 Hiigaran Crossroads Cluster V2.2），并且是“去去雾气走”mod系列的一部分。有关更多一般的信息，请在[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1436262588]这里[/url]参阅主mod页面。
+
+本mod已获得Hiigaran Crossroads作者Exavier认可。
+
+已知的问题
+没有已知问题。
+
+查看我的工坊([url=https://steamcommunity.com/profiles/76561198207587611/myworkshopfiles/?appid=2870]链接[/url])以获取其他简单实用的mod。

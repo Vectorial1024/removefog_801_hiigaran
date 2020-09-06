@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<diff>
+	<remove sel="/regions/region[@name='hiigara_region_testing']/fields/positional[@ref='fog_outside_set2_macro']"/>
+	<replace sel="/regions/region[@name='hiigara_region_40k_nebula_decoration']/fields">
+		<fields/>
+	</replace>
+	<remove sel="/regions/region[@name='hiigara_region_40k_nebula']/fields/positional[@ref='fog_outside_set4_green_macro']"/>
+	<remove sel="/regions/region[@name='hiigara_region_40k_nebula']/fields/nebula[@resource='hydrogen']/@ref"/>
+	<remove sel="/regions/region[@name='hiigara_region_40k_nebula']/fields/nebula[@resource='plasma']/@ref"/>
+	<remove sel="/regions/region[@name='hiigara_region_40k_nebula']/fields/nebula[@resource='ions']/@ref"/>
+	<remove sel="/regions/region[@name='hiigara_region_40k_ice']/fields/positional[@ref='fog_outside_set4_blue_macro']"/>
+	<remove sel="/regions/region[@name='hiigara_region_40k_crystal']/fields/positional[@ref='fog_outside_set2_macro']"/>
+	<remove sel="/regions/region[@name='hiigara_region_40k_ore_decoration']/fields/positional[@ref='fog_outside_set1_macro']"/>
+	<remove sel="/regions/region[@name='hiigara_region_40k_ore']/fields/positional[@ref='fog_outside_set1_macro']"/>
+</diff>
